@@ -1,6 +1,6 @@
-Hi! Im Corrie
-I'm a designer from UC Davis
-visit my website corrieobrien.com
+Hi! I'm Corrie,
+I'm a designer from UC Davis.
+Visit my website corrieobrien.com
 or my linkedin: https://www.linkedin.com/in/corrie-o-brien-958a921b2
 
 <!---
